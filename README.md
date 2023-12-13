@@ -9,5 +9,6 @@ There are some well-marked bugs in the code. For each one:
 - Fix the bug: the test case should now pass.
 
 You could do this as part of a [Learning Hour](https://www.sammancoaching.org/learning_hours/test_design/asserting_on_collections.html)
+
 Data Stracture 
 ![image](https://github.com/ayoubberachad/StrangeCharacters-TestDesign-Kata/assets/85138089/db320fb8-e3ae-4add-a21f-831ea438014a)
